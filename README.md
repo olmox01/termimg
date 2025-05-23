@@ -1,5 +1,5 @@
-[Cattura immage to ascii](https://github.com/user-attachments/assets/cc649c27-a35b-4ada-bec0-f56b91928164)
-TermImg - Visualizzatore di Immagini e Video per Terminale
+![435534796-cc649c27-a35b-4ada-bec0-f56b91928164](https://github.com/user-attachments/assets/f6c3017a-f9cf-4691-bbb6-6de050fff7f4)
+
 TermImg è un visualizzatore leggero di immagini e video direttamente nel terminale, ottimizzato per funzionare anche su sistemi Linux con librerie MUSL e configurazioni minimali.
 
 Caratteristiche
